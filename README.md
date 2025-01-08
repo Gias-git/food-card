@@ -32,4 +32,4 @@ Follow these steps to run the project on your local machine:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Gias-git/PHTUBE.git  
+   git clone (https://github.com/Gias-git/food-card)  
