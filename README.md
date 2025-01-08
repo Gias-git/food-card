@@ -1,8 +1,35 @@
-# React + Vite
+# Food_Card  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Restauret** built with MERN. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features  
+
+- User authentication (Login/Signup)  
+- food add by admin
+- User can buy food
+- Catagories food view
+
+## 🛠️ Technologies Used  
+
+- **Frontend:** [React, TailwindCSS]  
+- **Backend:** [ Node.js, Express]  
+- **Database:** [ MongoDB]  
+- **Others:** [ Firebase]  
+
+## 📦 Dependencies  
+
+Here are the key dependencies used in the project:  
+
+- [React]
+- [Axios]
+- [Express]
+- [MongoDb]
+
+## 🚀 Getting Started  
+
+Follow these steps to run the project on your local machine:  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/Gias-git/PHTUBE.git  
